@@ -1,1 +1,1 @@
-# waste-sorting-app-alx
+# SWE2
